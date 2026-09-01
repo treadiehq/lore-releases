@@ -1,6 +1,9 @@
 # Lore Releases
 
-Binary releases for the [Lore](https://uselore.co) CLI.
+[Lore](https://uselore.co) gives coding agents a shared engineering memory:
+teach one agent once, and the others learn too.
+
+This repository contains its CLI binary releases.
 
 ## Install
 
